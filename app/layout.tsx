@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: "Photoshoot Scanner",
   description: "Environment Scanner for Photography",
   manifest: "/manifest.json",
+  icons: {
+    apple: "/icons/icon-180x180.png",
+  },
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
