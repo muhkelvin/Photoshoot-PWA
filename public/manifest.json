@@ -1,0 +1,21 @@
+{
+  "name": "Photoshoot Scanner",
+  "short_name": "Scanner",
+  "description": "Environment Scanner for Photography",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f1e9",
+  "theme_color": "#d8a7b1",
+  "icons": [
+    {
+      "src": "/icons/icon-512x512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icons/icon-512x512.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}
